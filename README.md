@@ -27,6 +27,11 @@
 [![2](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-vue2-50project)
 [![3](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=react-study&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/react-study)
 [![4](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-web-template-github)
+
+
+
+[![4](https://github-readme-stats.vercel.app/api/pin/?username=linhaojun857&repo=aurora&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/linhaojun857/aurora)
+
 <br>
 
 ### 🔥 GitHub 活跃度
