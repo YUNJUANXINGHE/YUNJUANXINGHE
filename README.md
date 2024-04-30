@@ -6,8 +6,10 @@
 
 <div align="center">
     <img  width=180 src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/logo.png"/>
-    <h1>✨Coinisi Github✨<br>❤️怦然心动❤️</h1> 
+    <h1>✨Coinisi Github✨<br>怦然心动</h1> 
 </div>
+
+
 
 
 
@@ -30,14 +32,18 @@
 
 ### 🧸 全栈工程师—Coinisi
 
+
+
+做一个有趣的全栈工程师
+
 <br>
 
 ### 🍭 GitHub 开源项目
 
-[![1](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/50-Case-Studies)
-[![2](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-vue2-50project)
-[![3](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=react-study&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/react-study)
-[![4](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-web-template-github)
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=Coinsi&repo=Coinisi-Database&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Coinsi/Coinisi-Database)
+[![2](https://github-readme-stats.vercel.app/api/pin/?username=Coinsi&repo=Yolov5-deepsort-driverDistracted-driving-behavior-detection&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Coinsi/Yolov5-deepsort-driverDistracted-driving-behavior-detection)
+
+
 
 
 
@@ -49,7 +55,7 @@
 
 
 
-![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-bcxb&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=Coinsi&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
 
 
