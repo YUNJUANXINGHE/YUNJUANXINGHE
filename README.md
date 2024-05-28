@@ -5,9 +5,10 @@
 
 
 <div align="center">
-    <img  width=180 src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/logo.png"/>
+    <img align="right" width="512" height="256" src="https://static.miantiao.me/share/2023/wDiISS/home.svg">
     <h1>✨Coinisi Github✨<br>怦然心动</h1> 
 </div>
+
 
 
 
@@ -26,7 +27,7 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Coinsi&show_icons=true&theme=calm_pink&count_private=true)
+
 
 
 
@@ -36,28 +37,36 @@
 
 做一个有趣的全栈工程师
 
+- 👨🏻‍💻 专注于全栈开发的 Web 开发工程师
+- 💻 毕业于计算机专业的业余选手
+- 🪐 Self-hosting 爱好者
+- 🛡️ Homelab 理性玩家
+
 <br>
 
 ### 🍭 GitHub 开源项目
 
-[![1](https://github-readme-stats.vercel.app/api/pin/?username=Coinsi&repo=Coinisi-Database&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Coinsi/Coinisi-Database)
-[![2](https://github-readme-stats.vercel.app/api/pin/?username=Coinsi&repo=Yolov5-deepsort-driverDistracted-driving-behavior-detection&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Coinsi/Yolov5-deepsort-driverDistracted-driving-behavior-detection)
+
+
+#### 折腾的项目
 
 
 
+- [个人博客](https://www.coinisi.love/) 关于SpringBoot+Vue的个人博客
+- [Github.io](https://coinsi.github.io/) 关于Github.io的研究
+- [数据库作业](https://github.com/Coinsi/Coinisi-Database) 做一个关于皮肤的管理系统
+- [物理学研究](https://github.com/Coinsi/Coinisi-Physics) 关于物理学的一些资料
+- [基于Yolov8的疲劳驾驶系统](https://github.com/Coinsi/Yolov5-deepsort-driverDistracted-driving-behavior-detection) 利用Python+Yolov8实现疲劳驾驶
+- [抖音短视频网站](https://github.com/Coinsi/Yolov5-deepsort-driverDistracted-driving-behavior-detection) 关于抖音短视频网站的实现
 
 
-[![4](https://github-readme-stats.vercel.app/api/pin/?username=linhaojun857&repo=aurora&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/linhaojun857/aurora)
-
-<br>
 
 ### 🔥 GitHub 活跃度
 
 
 
-![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=Coinsi&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
 
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coinsi&theme=nord_dark)
 
-![心电图](https://github-readme-activity-graph.vercel.app/graph?username=Coinsi&theme=dracula&custom_title=Coinisi的心电图&radius=10)
-
+![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coinsi&theme=nord_dark)
